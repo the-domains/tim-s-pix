@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#D0E0E8'
+    - '#384808'
+    - '#889878'
+    - '#E03038'
+    - '#A0C0D8'
+  brandStrength: 0.023811
+  lightness: 0.457979
+  rhythmicContrast: 0.991597
+  saturation: 0.281876
+cta: {}
+layout_spectrum: 0.38429
+name: "Tim's Pix"
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.618243
